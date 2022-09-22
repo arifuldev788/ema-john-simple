@@ -1,0 +1,29 @@
+.summary{
+    text-align: center;
+}
+.total-amount{
+    text-align: center;
+    color: brown;
+}
+.review-btn{
+    background-color: #f0c14b;
+    border-color: #a88734 #9c7e31 #846a29;
+    color: #111;
+    width: 200px;
+    height: 26px;
+    border-style: solid;
+    border-width: 1px;
+    cursor: pointer;
+    border-radius: 3px;
+    vertical-align: middle;
+}
+.cart-area p{
+    margin: 2px 0;
+}
+.cart-area{
+    margin-top: 20px;
+    border: 1px dashed #f0c14b;
+    padding: 20px;
+    background-color: #fcf7f7;
+    box-shadow: 0px 0px 10px #f0c14b;
+}
